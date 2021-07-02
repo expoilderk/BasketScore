@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameScore</string>
+    <string name="timaA">Time A</string>
+    <string name="doisPontos">+2 Pontos</string>
+    <string name="placarInicial">0</string>
+    <string name="tresPontos">+3 Pontos</string>
+    <string name="tiroLivre">Tiro Livre</string>
+    <string name="timeB">Time B</string>
+    <string name="restart">Reiniciar Partida</string>
+    <string name="basketball">Basquete</string>
+    <string name="removePontosTimeA">Remove Ponto</string>
+    <string name="removePontos">Remove Pontos</string>
+</resources>
